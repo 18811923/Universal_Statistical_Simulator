@@ -1,1 +1,1 @@
-In this repository, I explored how quantum circuits can simulate complex systems through a Galton Box-style Monte Carlo problem, an approach relevant to high-dimensional challenges like particle transport and quantum systems.
+In this repository, I explored how quantum circuits can simulate complex systems through a Galton Box-style Monte Carlo problem, an approach relevant to high-dimensional challenges like particle transport and quantum systems. I used the guidance of the paper "Universal Statistical Simulator,  Mark Carney, Ben Varcoe, arXiv:2202.01735 [quant-ph] "
